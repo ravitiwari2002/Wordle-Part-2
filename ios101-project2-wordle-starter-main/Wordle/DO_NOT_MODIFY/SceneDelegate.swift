@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Wordle
-//
-//  Created by Mari Batilando on 2/12/23.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
