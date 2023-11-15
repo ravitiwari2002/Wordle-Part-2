@@ -1,10 +1,3 @@
-//
-//  SettingsViewController.swift
-//  Wordle
-//
-//  Created by Mari Batilando on 3/19/23.
-//
-
 import UIKit
 
 protocol SettingsViewControllerDelegate: NSObject {
