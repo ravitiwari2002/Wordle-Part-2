@@ -1,10 +1,3 @@
-//
-//  WordleUITestsLaunchTests.swift
-//  WordleUITests
-//
-//  Created by Mari Batilando on 2/12/23.
-//
-
 import XCTest
 
 final class WordleUITestsLaunchTests: XCTestCase {
