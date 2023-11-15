@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Wordle
-//
-//  Created by Mari Batilando on 2/12/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController,
