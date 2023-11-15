@@ -1,10 +1,3 @@
-//
-//  WordleTests.swift
-//  WordleTests
-//
-//  Created by Mari Batilando on 2/12/23.
-//
-
 import XCTest
 @testable import Wordle
 
