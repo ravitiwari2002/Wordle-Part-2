@@ -1,35 +1,19 @@
-# Project 2 - *Wordle Pt. 2*
+ *Wordle Pt. 2*
 
-Submitted by: **Ravi Tiwari**
+**Worlde Pt. 2** allows users to customize the game settings and generate words from selected category. 
 
-**Worlde Pt. 2** is an app that allows users to customize the game settings and generate words from selected category. 
+## Features
 
-Time spent: **1** hours spent in total
+The following functionalities are implemented:
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [Yes] User can change the number of letters per row (the length of the goal word)
-- [Yes] User can change the numbers of rows on the board (how many guesses allowed)
-- [Yes] User can select a new themed set to pull the goal word from
-- [Yes] User can select "alien wordle", causing the goal word to change after each guess
+-  User can change the number of letters per row (the length of the goal word)
+-  User can change the numbers of rows on the board (how many guesses allowed)
+-  User can select a new themed set to pull the goal word from
+-  User can select "alien wordle", causing the goal word to change after each guess
 
 
-The following **optional** features are implemented:
+https://github.com/ravitiwari2002/Wordle-Part-2/assets/81186121/95b856a5-0b61-4682-bd4c-5047f62a32ff
 
-- [No] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [N/A] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-https://youtu.be/JDi7o5UUup0
-
-## Notes
-
-Describe any challenges encountered while building the app. N/A
 
 ## License
 
