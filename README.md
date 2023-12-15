@@ -1,6 +1,6 @@
  *Wordle Pt. 2*
 
-**Worlde Pt. 2** allows users to customize the game settings and generate words from selected category. 
+**Wordle Pt. 2** allows users to customize the game settings and generate words from selected category. 
 
 ## Features
 
